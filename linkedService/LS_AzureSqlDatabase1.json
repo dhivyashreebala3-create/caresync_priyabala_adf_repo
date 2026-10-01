@@ -9,7 +9,7 @@
 			"encrypt": "mandatory",
 			"trustServerCertificate": false,
 			"authenticationType": "SQL",
-			"userName": "neondb_owner",
+			"userName": "dhivyashree",
 			"password": {
 				"type": "AzureKeyVaultSecret",
 				"store": {
